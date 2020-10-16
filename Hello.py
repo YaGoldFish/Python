@@ -1,3 +1,8 @@
+#############################
+#Learn python coding 
+#With John Elder 
+#############################
+
 import os
 os.system("clear")
 
